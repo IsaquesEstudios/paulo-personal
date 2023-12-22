@@ -106,6 +106,9 @@ export default function tabela() {
 
 
 
+
+
+
             <table className={Style.Tabela}>
                 <thead>
                     <tr>
