@@ -53,6 +53,7 @@ export default function tabela() {
                 </tfoot>
             </table>
 
+        
 
             <table className={Style.Tabela} style={{ border: "#FFDA2A solid 1px", boxShadow: "0px 0px 19px 0px rgba(0,0,0,0.75)" }}>
                 <thead>
