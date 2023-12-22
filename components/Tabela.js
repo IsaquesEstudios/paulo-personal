@@ -123,7 +123,7 @@ export default function tabela() {
                 </thead>
                 <tbody>
                     <tr>
-                        <th><span>R$</span>450<span>00</span></th>
+                        <th><span>R$</span>600<span>00</span></th>
                     </tr>
                     <tr>
                         <td>6 meses de treino</td>
